@@ -6,6 +6,12 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>The TCAND Problem in Query Optimization</title>
+    <link>https://quartz.jzhao.xyz/notes/tcand</link>
+    <guid>https://quartz.jzhao.xyz/notes/tcand</guid>
+    <description><![CDATA[ The TCAND problem that I recently presented at ICDT and that we introduced with Hung Q. ]]></description>
+    <pubDate>Sat, 06 Sep 2025 21:00:00 GMT</pubDate>
+  </item><item>
     <title>Welcome to Quartz</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
