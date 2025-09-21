@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>Quartz 4</title>
-      <link>https://quartz.jzhao.xyz</link>
-      <description>Last 10 notes on Quartz 4</description>
+      <title>Tsourolampis&#039; notes</title>
+      <link>https://https://tsourolampis.github.io</link>
+      <description>Last 10 notes on Tsourolampis&#039; notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>riddles</title>
+    <link>https://https://tsourolampis.github.io/riddles</link>
+    <guid>https://https://tsourolampis.github.io/riddles</guid>
+    <description><![CDATA[ Star 180° Notice that 43.7°+19.7°+18.2°+43°+55.4°=180°. Coincidence or not? Answer Draw the line AC. Notice that \( \angle DME = \angle AMC \). ]]></description>
+    <pubDate>Sun, 21 Sep 2025 19:33:05 GMT</pubDate>
+  </item><item>
     <title>The TCAND Problem in Query Optimization</title>
-    <link>https://quartz.jzhao.xyz/notes/tcand</link>
-    <guid>https://quartz.jzhao.xyz/notes/tcand</guid>
+    <link>https://https://tsourolampis.github.io/notes/tcand</link>
+    <guid>https://https://tsourolampis.github.io/notes/tcand</guid>
     <description><![CDATA[ The TCAND problem that I recently presented at ICDT and that we introduced with Hung Q. ]]></description>
     <pubDate>Sat, 06 Sep 2025 21:00:00 GMT</pubDate>
   </item><item>
     <title>Welcome to Quartz</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
+    <link>https://https://tsourolampis.github.io/</link>
+    <guid>https://https://tsourolampis.github.io/</guid>
     <description><![CDATA[ This is a blank Quartz installation. See the documentation for how to get started. ]]></description>
     <pubDate>Wed, 23 Aug 2023 19:09:04 GMT</pubDate>
   </item>
